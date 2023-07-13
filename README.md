@@ -1,7 +1,7 @@
-# redis_client
-redis_client is a Redis database C++ client.
+# XREDIS
+XREDIS is a Redis database C++ client.
 
-redis_client是Redis数据库的C++客户端。
+XREDIS是Redis数据库的C++客户端。
 
 ## Features
 -------
@@ -15,7 +15,7 @@ redis_client是Redis数据库的C++客户端。
 ## Usage
 -------
 ``` C++
-#include "redis_client.hpp"
+#include "XREDIS.hpp"
 
 int main()
 {
